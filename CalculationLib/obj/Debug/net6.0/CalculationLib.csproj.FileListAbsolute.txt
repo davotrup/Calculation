@@ -1,0 +1,12 @@
+C:\Users\danpu\source\repos\Calculation\CalculationLib\bin\Debug\net6.0\CalculationLib.deps.json
+C:\Users\danpu\source\repos\Calculation\CalculationLib\bin\Debug\net6.0\CalculationLib.dll
+C:\Users\danpu\source\repos\Calculation\CalculationLib\bin\Debug\net6.0\CalculationLib.pdb
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.csproj.AssemblyReference.cache
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.AssemblyInfoInputs.cache
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.AssemblyInfo.cs
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.dll
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\refint\CalculationLib.dll
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\CalculationLib.pdb
+C:\Users\danpu\source\repos\Calculation\CalculationLib\obj\Debug\net6.0\ref\CalculationLib.dll
